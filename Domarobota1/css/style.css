@@ -1,0 +1,142 @@
+body {
+   font-family: 'Roboto', sans-serif;
+}
+
+.header {}
+
+.header-nav {}
+
+.header-logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.header-list {}
+
+.header-items {}
+
+.header-contacts {}
+
+.main-title {
+    Font style: Black;
+    Font size: 44px Line; 
+    height: 1.16; 
+    Align: Center Vertical; 
+    align: Top; 
+    Letter spacing: 6%;  
+    color: #FFFFFF;
+}
+
+.title {}
+
+.main-btn:hover,
+.main-btn:focus {
+   background-color: #2196F3;
+}
+
+.feature {}
+
+.feature-list {}
+
+.feature-list-items {}
+
+.feature-title {
+Font family: Roboto; 
+Font style: Bold; 
+Font size: 14px;  
+Line height: 1.14; 
+Align: Left Vertical; 
+align: Top; 
+Letter spacing: 3%; 
+color: #212121;
+}
+
+.feature-pre-title {
+    Font family: Roboto; 
+    Font style: Regular; 
+    Font size: 14px;  
+    Line height: 1.46; 
+    Align: Left Vertical; 
+    align: Top; 
+    Letter spacing: 3%; 
+    color: #757575;
+}
+
+.box {}
+
+.box-title {
+    Font style: Bold; 
+    Font size: 36px; 
+    Line height: 1.16;
+    Align: Center Vertical; 
+    align: Top; 
+    Letter spacing: 3%;
+    color: #212121;
+}
+
+.box-list {}
+
+.box-list-items {}
+
+.team-title {
+    Font style: Bold; 
+    Font size: 36px;  
+    Line height: 1.16;
+    Align: Center Vertical; 
+    align: Top; 
+    Letter spacing: 3%; 
+    color: #212121;
+}
+
+.team-title-name{
+    Font style: Medium; 
+    Font size: 16px; 
+    Line height: 1.18; 
+    Align: Center Vertical; 
+    align: Top; 
+    Letter spacing: 3%; 
+    color: #212121;
+}
+
+.team-list {}
+
+.team-list-items {}
+
+.team-pre-title {
+    Font style: Regular; 
+    Font size: 16px;  
+    Line height: 1.18; 
+    Align: Center Vertical; 
+    align: Top; 
+    Letter spacing: 3%; 
+    color: #757575;
+}
+
+.footer {
+    background: #2F303A;
+}
+
+.footer-logo {
+    Font family: Raleway; 
+    Font style: Bold; 
+    Font size: 26px; 
+    Line height: 1.19; 
+    Align: Left Vertical;
+    align: Top;
+    Letter spacing: 3%;
+}
+
+.footer-list {}
+
+.footer-contacts-items {
+    color: #FFFFFF 60%;
+}
+.footer-contacts-items :hover,
+.footer-contacts-items :focus{
+    color: #2196F3;
+}

@@ -1,0 +1,64 @@
+.header {
+font-family: 'Roboto', sans-serif;
+}
+
+.header-nav {
+    
+
+}
+
+.header-logo {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.header-list {
+    color: rgba(0, 0, 0, 0.25));
+}
+
+.header-items {}
+
+.header-contacts {}
+
+.portfolio {}
+
+.portfolio-btn:hover,
+.portfolio-btn:focus {
+    background-color: #2196F3;
+    cursor: pointer;
+}
+
+.portfolio-project-list {
+    color: #212121;
+}
+
+.portfolio-list {}
+
+.portfolio-title {}
+
+.portfolio-pre-title {}
+
+.footer {
+    background: #2F303A;
+}
+.footer-logo {
+    Font family: Raleway; 
+    Font style: Bold; 
+    Font size: 26px; 
+    Line height: 31px; 
+    Line height: 1.19; 
+    Letter spacing: 3%;
+}
+
+.footer-contacts-list {
+    color: #FFFFFF;
+}
+
+.footer-contacts-items :hover,
+.footer-contacts-items :focus {
+    color: #FFFFFF;
+}
